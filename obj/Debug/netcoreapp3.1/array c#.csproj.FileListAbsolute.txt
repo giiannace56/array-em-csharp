@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.exe
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.deps.json
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.runtimeconfig.json
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.runtimeconfig.dev.json
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.dll
+C:\Users\giian\Desktop\array c#\bin\Debug\netcoreapp3.1\array c#.pdb
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.AssemblyInfo.cs
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.dll
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.pdb
+C:\Users\giian\Desktop\array c#\obj\Debug\netcoreapp3.1\array c#.genruntimeconfig.cache
